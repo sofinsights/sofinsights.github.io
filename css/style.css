@@ -53,6 +53,7 @@ header {
 
 .branch, .branch img {
     width: 150px;
+    opacity: 0;
     border-radius: 50%;
 }
 
