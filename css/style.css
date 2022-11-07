@@ -38,7 +38,7 @@ h2 { color: #141A28; }
 section {padding: 20px; margin: 20px;}
 
 .container {
-    width: 960px;
+    width: 990px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -52,7 +52,7 @@ header {
 }
 
 .branch, .branch img {
-    width: 90px;
+    width: 150px;
     border-radius: 50%;
 }
 
